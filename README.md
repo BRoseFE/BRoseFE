@@ -1,16 +1,18 @@
-## Hi there 👋
+# Branson Rose
+Junior Front-End Developer
 
-<!--
-**BRoseFE/BRoseFE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build accessible, responsive web interfaces with HTML, CSS, JavaScript, and React.
+Focused on clean UI, UX, performance, and real-world usability.
 
-Here are some ideas to get you started:
+## Tech
+- HTML5, CSS3, JavaScript (ES6+)
+- React
+- Git & GitHub
+- Responsive & accessible design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Coursera - Front-End Development
+- Coursera - Google Cyber Security
+
+## Projects
+See pinned repositories below
