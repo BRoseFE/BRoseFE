@@ -10,7 +10,7 @@ Focused on clean UI, UX, performance, and real-world usability.
 - Git & GitHub
 - Responsive & accessible design
 
-## Certifications
+## Certifications (see pinned Repo)
 - Coursera - Front-End Development
 - Coursera - Google Cyber Security
 
