@@ -1,18 +1,30 @@
-# Branson Rose
+# Branson Rose  
 Junior Front-End Developer
 
-I build accessible, responsive web interfaces with HTML, CSS, JavaScript, and React.
-Focused on clean UI, UX, performance, and real-world usability.
+I build accessible, responsive web interfaces using HTML, CSS, JavaScript, and React.  
+My focus is clean UI, solid UX, performance, and real-world usability.
+
+---
 
 ## Tech
 - HTML5, CSS3, JavaScript (ES6+)
 - React
 - Git & GitHub
-- Responsive & accessible design
+- Responsive and accessible design
 
-## Certifications (see pinned Repo)
-- Coursera - Front-End Development
-- Coursera - Google Cyber Security
+---
+
+## Certifications
+
+### Front-End Development
+🎓 Front-End Developer Professional Certificate  
+📂 See pinned Certifications repository
+
+### Additional Professional Training
+Cybersecurity fundamentals (Google Professional Certificate)  
+📂 Documentation available in Certifications repository
+
+---
 
 ## Projects
-See pinned repositories below
+See pinned repositories below.
