@@ -17,11 +17,10 @@ My focus is clean UI, solid UX, performance, and real-world usability.
 ## Certifications
 
 ### Front-End Development
-🎓 Front-End Developer Professional Certificate  
-📂 See pinned Certifications repository
+🎓 [Front-End Developer Professional Certificate (Meta)](https://github.com/BRoseFE/professional-certifications/blob/main/certifications/coursera/2026-02%20-%20Meta%20on%20Coursera%20-%20Front-End%20Developer.pdf)
 
 ### Additional Professional Training
-Cybersecurity fundamentals (Google Professional Certificate)  
+Cybersecurity (Google Professional Certificate)  
 📂 Documentation available in Certifications repository
 
 ---
