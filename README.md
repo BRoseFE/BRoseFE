@@ -1,16 +1,20 @@
 # Branson Rose  
-Junior Front-End Developer
+Junior Full-Stack Developer
 
-I build accessible, responsive web interfaces using HTML, CSS, JavaScript, and React.  
-My focus is clean UI, solid UX, performance, and real-world usability.
-
+I build responsive web applications with React, Python, Django,
+REST APIs, and relational databases. Experienced creating accessible user interfaces, developing
+backend functionality, and working with client-server architecture to deliver maintainable web
+applications.
 ---
 
 ## Tech
-- HTML5, CSS3, JavaScript (ES6+)
-- React
-- Git & GitHub
-- Responsive and accessible design
+- Languages: Python, JavaScript (ES6+), HTML5, CSS3
+- Frontend: React, React Router
+- Backend: Django, Django REST Framework, REST APIs
+- Databases: PostgreSQL, SQLite
+- Styling: CSS Modules, Flexbox, Grid, Responsive Design
+- Tooling: Git, GitHub, npm
+- Accessibility: Semantic HTML, ARIA, Keyboard Navigation
 
 ---
 
