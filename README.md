@@ -3,7 +3,7 @@ Full-Stack Developer
 
 <p>
   <a href="https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Full_Stack_Developer.pdf">
-    <img src="https://img.shields.io/badge/Resume-181717?logo=readme&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄%20Resume-PDF-0969DA?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
   </a>
 </p>
 
