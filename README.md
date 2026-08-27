@@ -1,7 +1,11 @@
 # Branson Rose  
 Full-Stack Developer
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Full_Stack_Developer.pdf)
+<p>
+  <a href="https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Full_Stack_Developer.pdf">
+    <img src="https://img.shields.io/badge/Resume-181717?logo=readme&logoColor=white" />
+  </a>
+</p>
 
 I build responsive full-stack web applications using React, Python, Django, REST APIs, and relational databases. I enjoy building accessible user interfaces, developing scalable backend services, and creating maintainable client-server applications.
 ---
