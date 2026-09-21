@@ -12,7 +12,7 @@ I build responsive full-stack web applications using React, Python, Django, REST
 
 ## Tech
 
-- Languages: Python, JavaScript (ES6+), HTML5, CSS3
+- Languages: Python, JavaScript (ES6+), TypeScript, HTML5, CSS3
 - Frontend: React, React Router
 - Backend: Django, Django REST Framework, REST APIs
 - Databases: PostgreSQL, MySQL, SQLite
@@ -27,7 +27,6 @@ I build responsive full-stack web applications using React, Python, Django, REST
 - Docker
 - Testing with Pytest
 - AWS
-- TypeScript
 - Next.js
 
 ---
