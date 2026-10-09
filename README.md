@@ -2,12 +2,12 @@
 Full-Stack Developer
 
 <p>
-  <a href="https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Full_Stack_Developer.pdf">
+  <a href="https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Front_End_Developer.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-7C3AED?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
 </p>
 
-I build responsive full-stack web applications using React, Python, Django, REST APIs, and relational databases. I enjoy building accessible user interfaces, developing scalable backend services, and creating maintainable client-server applications.
+I build responsive, accessible front-end applications using React and TypeScript, with a focus on reusable components, clean architecture, and maintainable code. I also have experience with Python, Django, REST APIs, and relational databases, allowing me to work across the stack when needed. I enjoy creating intuitive user interfaces while understanding the backend systems that support them.
 ---
 
 ## Tech
@@ -46,4 +46,4 @@ I build responsive full-stack web applications using React, Python, Django, REST
 
 ## Featured Projects
 
-See my pinned repositories below for full-stack applications built with React, Django, REST APIs, and PostgreSQL/MySQL.
+See my pinned repositories below for React applications.
