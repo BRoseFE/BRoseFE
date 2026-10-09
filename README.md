@@ -3,7 +3,7 @@ Front-End Developer | React & TypeScript
 
 <p>
   <a href="https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Front_End_Developer.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-7C3AED?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/Resume-PDF-7C3AED?style=flat&logo=adobeacrobatreader&logoColor=white" alt="Download Resume">
   </a>
 </p>
 
