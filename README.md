@@ -1,5 +1,5 @@
 # Branson Rose  
-Full-Stack Developer
+Front-End Developer | React & TypeScript
 
 <p>
   <a href="https://raw.githubusercontent.com/BRoseFE/resume/main/Branson_Rose_Front_End_Developer.pdf">
