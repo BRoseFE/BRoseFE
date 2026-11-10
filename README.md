@@ -32,6 +32,7 @@ My projects include a client website built with React and Sanity CMS, a TypeScri
 **Accessibility:** Semantic HTML, ARIA, Keyboard Navigation
 
 ### Coursework & Additional Exposure
+
 Python, Django, Django REST Framework, PostgreSQL, relational database fundamentals
 
 ---
@@ -49,26 +50,32 @@ Python, Django, Django REST Framework, PostgreSQL, relational database fundament
 ## Certifications
 
 ### Full-Stack Development
+
 [Meta Full-Stack Developer Professional Certificate](https://github.com/BRoseFE/professional-certifications/blob/main/certifications/coursera/2026-07%20-%20Meta%20on%20Coursera%20-%20Full-Stack%20Developer.pdf)
 
 ### Front-End Development
+
 [Meta Front-End Developer Professional Certificate](https://github.com/BRoseFE/professional-certifications/blob/main/certifications/coursera/2026-02%20-%20Meta%20on%20Coursera%20-%20Front-End%20Developer.pdf)
 
 ### Additional Professional Training
+
 [Google Cybersecurity Professional Certificate](https://github.com/BRoseFE/professional-certifications/blob/main/certifications/coursera/2024-01%20-%20Google%20on%20Coursera%20-%20Google%20Cybersecurity.pdf)
 
 ---
 
 ## Featured Projects
 
-### Chelsea Rose Art Portfolio
+### [Chelsea Rose Art Portfolio](https://chelsearose.art)
+
 A client website built with React and Sanity CMS, featuring dynamic content, responsive layouts, and individual artwork pages.
 
-### Video Game Hub
+### [Video Game Hub](https://video-game-discovery-app-wine.vercel.app/)
+
 A video game discovery application built with React and TypeScript, featuring search, filtering, sorting, and API integration.
 
-### React Template Marketplace
-A marketplace currently in development, built with React, TypeScript, Supabase, and Stripe. The goal is to provide a platform for browsing, purchasing, and securely downloading React templates.
+### React Template Marketplace — In Development
+
+A marketplace being built with React, TypeScript, and Supabase. The planned platform will allow customers to browse, purchase, and securely download React templates, with Stripe payment integration.
 
 ---
 
